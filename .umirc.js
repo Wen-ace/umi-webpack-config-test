@@ -18,8 +18,8 @@ export default {
       },
     }],
   ],
-  // runtimePublicPath: true,
-  // exportStatic: {
+  // runtimePublicPath: true,                                                   // 
+  // exportStatic: {                                                            // 输出所有router 文件 ，好像可以使用browser router 模式了
   //   dynamicRoot: 'app'
   // },
   publicPath: 'http://localhost:8000/',                                         // 配置 静态资源路径  css js img 等等
