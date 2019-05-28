@@ -18,6 +18,8 @@ export default function() {
       </ul>
 
       <img src={tk} />
+
+      <img src="../assets/imgs/ticket_bg.png"/>
     </div>
   );
 }
